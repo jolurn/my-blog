@@ -1,0 +1,4 @@
+flask
+Pillow
+flask-mysqldb
+flask-restful
